@@ -4,25 +4,25 @@ As part of my data analytics journey, I worked on a project analyzing Olympic Ga
 # Project Overview: This project focused on data ingestion, preprocessing, analysis, and visualization using Apache Spark and SparkSQL. By leveraging Databricks, I was able to efficiently handle large-scale Olympic datasets, uncover trends, and create compelling visualizations to present my findings.
 
 # Key Components of The Project
-1. Data Ingestion & Preprocessing
-   Loaded and cleaned Olympic datasets for structured analysis.
+1. Data Ingestion & Preprocessing <br>
+   Loaded and cleaned Olympic datasets for structured analysis. <br>
    Used SparkSQL and DataFrames for efficient data transformation.
 
-2.  Exploratory Data Analysis (EDA)
-   Analyzed trends in athlete performances, country rankings, and medal distributions.
+2.  Exploratory Data Analysis (EDA) <br>
+   Analyzed trends in athlete performances, country rankings, and medal distributions. <br>
    Examined historical patterns across different Olympic events and sports categories.
 
-3. Scalable Data Processing
-   Implemented Apache Spark for fast and efficient big data processing.
+3. Scalable Data Processing <br>
+   Implemented Apache Spark for fast and efficient big data processing. <br>
    Optimized queries to handle large datasets seamlessly.
 
-4. Visualization & Reporting
-   Developed graphical representations of medal counts, athlete performance, and country-wise statistics.
+4. Visualization & Reporting <br>
+   Developed graphical representations of medal counts, athlete performance, and country-wise statistics. <br>
    Created interactive dashboards within Databricks Notebook for insightful data storytelling.
 
-5. Real-World Impact
-   Answered key questions related to athlete dominance, country rankings, and historical trends in Olympic sports.
-   Demonstrated how big data analytics can be applied in sports, media, and data science industries.
+5. Real-World Impact <br>
+   Answered key questions related to athlete dominance, country rankings, and historical trends in Olympic sports.  <br>
+   Demonstrated how big data analytics can be applied in sports, media, and data science industries. 
 
 # Technical Skills Used
 Apache Spark & SparkSQL for large-scale data processing <br>
