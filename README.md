@@ -25,13 +25,9 @@ As part of my data analytics journey, I worked on a project analyzing Olympic Ga
    Demonstrated how big data analytics can be applied in sports, media, and data science industries.
 
 # Technical Skills Used
-Apache Spark & SparkSQL for large-scale data processing
-Databricks Notebook (Community Edition) for cloud-based analytics
-Python & SQL for data transformation and querying
+Apache Spark & SparkSQL for large-scale data processing <br>
+Databricks Notebook (Community Edition) for cloud-based analytics <br>
+Python & SQL for data transformation and querying <br>
 Visualization using built-in Databricks graphing tools
-
-
-
-
 
 
